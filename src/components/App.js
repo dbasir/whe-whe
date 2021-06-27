@@ -52,7 +52,7 @@ function App() {
       alert("Please select all 5 numbers first");
     }
     else {
-      alert("Congratulations!! You won $" + (parseInt(dollar)));
+      alert("Congratulations!! You won $" + dollar);
       Clear();
 
     }
